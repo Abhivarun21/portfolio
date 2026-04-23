@@ -3,9 +3,7 @@
 A high-tech, modern personal portfolio website built with **React.js**. This project features a glassmorphism UI, neon aesthetics, and is optimized for showcasing Full Stack development skills and academic projects.
 
 ## 🌐 Live Demo
-[Check out my live portfolio here!](https://Abhivarun21.github.io/abhi-portfolio) 
-*(Note: Replace with your actual GitHub Pages link once deployed)*
-
+[Check out my live portfolio here!] https://abhivarun21.github.io/portfolio/
 ---
 
 ## ✨ Features
